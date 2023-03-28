@@ -3,7 +3,7 @@
     <div class="row pt-5">
       <div class="col-lg-8">
         <div class="img">
-          <img src="../assets/HE8.jpg" alt="img" />
+          <img src="../assets/HE1.jpg" alt="img" />
         </div>
         <div class="title">
           <h4>خدمات أفضل شركات نقل العفش بالكويت</h4>
@@ -17,7 +17,7 @@
           </p>
         </div>
         <div class="img">
-          <img src="../assets/HE8.jpg" alt="img" />
+          <img src="../assets/HE2.jpg" alt="img" />
         </div>
         <div class="title">
           <h5>تغليف العفش</h5>
@@ -35,7 +35,7 @@
           </p>
         </div>
         <div class="img">
-          <img src="../assets/HE8.jpg" alt="img" />
+          <img src="../assets/HE6.jpg" alt="img" />
         </div>
         <div class="title">
           <h5>رفع وتنزيل العفش</h5>
@@ -48,6 +48,29 @@
             شركة جمالكو عفش منزل في أمان تام , فنحن نقدم الخدمة بجميع أنواعها من
             نقل و رفع و انزال جميع أنواع قطع العفش في المكاتب و الشركات و الفلل
             و القصور و غيرها.
+          </p>
+        </div>
+        <div class="img">
+          <img src="../assets/HE7.jpg" alt="img" />
+        </div>
+        <div class="title">
+          <h5>عملية نقل الاثاث</h5>
+          <p>
+            تقوم شركة جمالكو بنقل الاثاث من و الي جميع الاماكن بالكويت فأينما
+            يكون العميل نصل اليه بأسرع وقت و بأقل و أرخص سعر ؛ فأسعار شركة
+            جمالكو أفضل شركة نقل أثاث بالكويت , أسعارنا تناسب الجميع الفقير قبل
+            الغني , فهي رخيصة جداً بالرغم من جودة و كفائه الخدمة التي نقدمها ,
+            فمعنا ستجد عزيزي العميل الامان و الطمأنية و الاسعار الرخيصة , فلا
+            تفكر للحظة و لا تتردد في الاتصال بشركة جمالكو أفضل شركة نقل عفش
+            بالكويت.
+          </p>
+          <h5 class="mb-2">ونش رفع العفش</h5>
+          <p>
+            تتمتع شركة جمالكو بالكثير من التسهيلات اللي بتوفرها لكافة العملاء
+            داخل الكويت منها ونش رفع العفش – الونش الهيدروليك و الونش الكهربي
+            ، لتصل بذلك لاعى الادوار يعنى لا تقلق ايا كان الدور الذي تسكن و تعيش
+            فيه شركة جمالكو بتوفرلك ونش للوصول للادوار الشاهقة والتي يصعب على
+            العمال بلوغها .
           </p>
         </div>
         <div class="img">
@@ -83,34 +106,34 @@ export default {};
 </script>
 
 <style lang="scss" scoped>
-.img{
-    img{
+.img {
+  img {
     width: 600px;
     height: 400px;
     margin: auto;
-    }
-    img:last-child{
-        margin-bottom: 10px;
-    }
+  }
+  img:last-child {
+    margin-bottom: 10px;
+  }
 }
-.title{
-    h4{
-        margin-top: 15px;
-    }
-    h5{
-        font-weight: bold;
-        font-size:20px;
-        margin-top: 13px;
-        background: #2a114c;
-        color:#fff;
-        padding: 10px;
-        width: 350px;
-    }
-    p{
-        line-height: 2;
-        font-size:20px;
-        margin-bottom: 3px;
-    }
+.title {
+  h4 {
+    margin-top: 15px;
+  }
+  h5 {
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 13px;
+    background: #2a114c;
+    color: #fff;
+    padding: 10px;
+    width: 350px;
+  }
+  p {
+    line-height: 2;
+    font-size: 20px;
+    margin-bottom: 3px;
+  }
 }
 .box-left {
   h3 {
