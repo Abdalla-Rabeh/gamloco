@@ -3,7 +3,7 @@
     <div class="row pt-5">
       <div class="col-lg-8">
         <div class="img">
-          <img src="../assets/HE1.jpg" alt="img" />
+          <img src="../assets/About.jpg" alt="img" />
         </div>
         <div class="title">
           <h5>من هي شركة جمالكو ؟</h5>
@@ -31,7 +31,7 @@
           </p>
         </div>
         <div class="img">
-          <img src="../assets/HE6.jpg" alt="img" />
+          <img src="../assets/HE18.jpg" alt="img" />
         </div>
         <div class="title">
           <p>
@@ -55,7 +55,7 @@
         </div>
 
         <div class="img">
-          <img src="../assets/HE8.jpg" alt="img" />
+          <img src="../assets/HE19.jpg" alt="img" />
         </div>
       </div>
       <div class="col-lg-4">

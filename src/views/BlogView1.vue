@@ -53,7 +53,7 @@
           </p>
         </div>
         <div class="img">
-          <img src="../assets/HE5.jpg" alt="img" />
+          <img src="../assets/HE14.jpg" alt="img" />
         </div>
         <div class="title">
           <h5>خدمات نقل الاثاث بالكوبت #1</h5>
@@ -80,7 +80,7 @@
           </p>
         </div>
         <div class="img">
-          <img src="../assets/HE7.jpg" alt="img" />
+          <img src="../assets/HE17.jpg" alt="img" />
         </div>
       </div>
       <div class="col-lg-4">

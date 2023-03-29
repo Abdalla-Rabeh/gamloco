@@ -6,7 +6,7 @@
           <div class="col-lg-12">
             <div class="d-flex">
               <div class="img">
-                <img src="../assets/HE1.jpg" alt="" class="img-fluid" />
+                <img src="../assets/HE4.jpg" alt="" class="img-fluid" />
               </div>
               <div class="box">
                 <router-link to="/blog/1">
@@ -26,7 +26,7 @@
           <div class="col-lg-12">
             <div class="d-flex">
               <div class="img">
-                <img src="../assets/HE2.jpg" alt="" class="img-fluid" />
+                <img src="../assets/HE5.jpg" alt="" class="img-fluid" />
               </div>
               <div class="box">
                 <router-link to="/blog/2">خدمات نقل الاثاث بالكويت</router-link>
@@ -40,7 +40,7 @@
           <div class="col-lg-12">
             <div class="d-flex">
               <div class="img">
-                <img src="../assets/HE3.jpg" alt="" class="img-fluid" />
+                <img src="../assets/HE6.jpg" alt="" class="img-fluid" />
               </div>
               <div class="box">
                 <router-link to="/blog/3">أرخص شركات نقل الاثاث بالكويت خصومات 2023</router-link>
@@ -54,7 +54,7 @@
           <div class="col-lg-12">
             <div class="d-flex">
               <div class="img">
-                <img src="../assets/HED4.jpg" alt="" class="img-fluid" />
+                <img src="../assets/HE7.jpg" alt="" class="img-fluid" />
               </div>
               <div class="box">
                 <router-link to="/blog/4">أرخص شركات نقل الاثاث بالكويت خصومات 2023</router-link>
@@ -68,7 +68,7 @@
           <div class="col-lg-12">
             <div class="d-flex">
               <div class="img">
-                <img src="../assets/HE1.jpg" alt="" class="img-fluid" />
+                <img src="../assets/HE8.jpg" alt="" class="img-fluid" />
               </div>
               <div class="box">
                 <router-link to="/blog/5">أرخص شركات نقل الاثاث بالكويت خصومات 2023</router-link>
@@ -83,7 +83,7 @@
           <div class="col-lg-12">
             <div class="d-flex">
               <div class="img">
-                <img src="../assets/HE5.jpg" alt="" class="img-fluid" />
+                <img src="../assets/HE9.jpg" alt="" class="img-fluid" />
               </div>
               <div class="box">
                 <router-link to="/blog/6">أرخص شركات نقل الاثاث بالكويت خصومات 2023</router-link>
@@ -97,7 +97,7 @@
           <div class="col-lg-12">
             <div class="d-flex">
               <div class="img">
-                <img src="../assets/HE6.jpg" alt="" class="img-fluid" />
+                <img src="../assets/HE10.jpg" alt="" class="img-fluid" />
               </div>
               <div class="box">
                 <router-link to="/blog/7">أرخص شركات نقل الاثاث بالكويت خصومات 2023</router-link>
@@ -111,7 +111,7 @@
           <div class="col-lg-12">
             <div class="d-flex">
               <div class="img">
-                <img src="../assets/HE7.jpg" alt="" class="img-fluid" />
+                <img src="../assets/HE11.jpg" alt="" class="img-fluid" />
               </div>
               <div class="box">
                 <router-link to="/blog/8">أرخص شركات نقل الاثاث بالكويت خصومات 2023</router-link>
@@ -125,7 +125,7 @@
           <div class="col-lg-12">
             <div class="d-flex">
               <div class="img">
-                <img src="../assets/HE8.jpg" alt="" class="img-fluid" />
+                <img src="../assets/HE12.jpg" alt="" class="img-fluid" />
               </div>
               <div class="box">
                 <router-link to="/blog/10">أرخص شركات نقل الاثاث بالكويت خصومات 2023

@@ -3,7 +3,7 @@
     <div class="row pt-5">
       <div class="col-lg-8">
         <div class="img">
-          <img src="../assets/HE1.jpg" alt="img" />
+          <img src="../assets/HE20.jpg" alt="img" />
         </div>
         <div class="title">
           <h5>شركات نقل الاثاث بالكويت</h5>
@@ -19,7 +19,7 @@
           </p>
         </div>
         <div class="img">
-          <img src="../assets/HE2.jpg" alt="img" />
+          <img src="../assets/HE12.jpg" alt="img" />
         </div>
         <div class="title">
           <p>
@@ -36,7 +36,7 @@
           </p>
         </div>
         <div class="img">
-          <img src="../assets/HE6.jpg" alt="img" />
+          <img src="../assets/HE13.jpg" alt="img" />
         </div>
         <div class="title">
           <h5>افضل شركات نقل العفش</h5>
@@ -52,7 +52,7 @@
         </div>
 
         <div class="img">
-          <img src="../assets/HE8.jpg" alt="img" />
+          <img src="../assets/HE19.jpg" alt="img" />
         </div>
       </div>
       <div class="col-lg-4">

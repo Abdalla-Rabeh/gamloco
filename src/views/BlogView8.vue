@@ -3,7 +3,7 @@
     <div class="row pt-5">
       <div class="col-lg-8">
         <div class="img">
-          <img src="../assets/HE1.jpg" alt="img" />
+          <img src="../assets/HE7.jpg" alt="img" />
         </div>
         <div class="title">
           <h5>شركة نقل عفش بالكويت</h5>
@@ -15,7 +15,7 @@
           </p>
         </div>
         <div class="img">
-          <img src="../assets/HE2.jpg" alt="img" />
+          <img src="../assets/HE10.jpg" alt="img" />
         </div>
         <div class="title">
           <p>
@@ -40,7 +40,7 @@
         </div>
 
         <div class="img">
-          <img src="../assets/HE8.jpg" alt="img" />
+          <img src="../assets/HE13.jpg" alt="img" />
         </div>
       </div>
       <div class="col-lg-4">
