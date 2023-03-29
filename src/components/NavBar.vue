@@ -56,6 +56,9 @@
             <a href="https://wa.me/96598981013" target="_blank">
               <font-awesome-icon icon="fab fa-whatsapp" />
             </a>
+            <a href="#">
+              <font-awesome-icon icon="fas fa-eye" />
+            </a>
           </div>
         </div>
       </div>
