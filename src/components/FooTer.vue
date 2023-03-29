@@ -22,7 +22,11 @@
             <font-awesome-icon icon="fab fa-snapchat" />
           </a>
         </li>
-
+        <li>
+          <a href="https://twitter.com/alshafyahmdbda1">
+            <font-awesome-icon icon="fab fa-twitter" />
+          </a>
+        </li>
       </ul>
     </div>
     <div class="p">
