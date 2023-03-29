@@ -17,6 +17,12 @@
                 <font-awesome-icon icon="fab fa-whatsapp" />
             </a>
         </li>
+        <li>
+          <a href="https://t.snapchat.com/JACcVqt0">
+            <font-awesome-icon icon="fab fa-snapchat" />
+          </a>
+        </li>
+
       </ul>
     </div>
     <div class="p">
